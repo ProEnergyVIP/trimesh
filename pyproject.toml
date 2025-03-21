@@ -79,7 +79,7 @@ easy = [
     "rtree",
     "httpx",
     "scipy",
-    "embreex; platform_machine=='x86_64'",
+    "embreex @ git+https://github.com/ProEnergyVIP/embreex.git",
     "pillow",
     "xatlas",
     "vhacdx; python_version>='3.9'",
